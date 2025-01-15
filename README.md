@@ -2,7 +2,7 @@
 
 ## 📄 Description
 
-`Image Resizer` is a command-line tool designed to resize images efficiently. Built on top of the ImageMagick library, it allows users to adjust image dimensions with ease. This tool is optimized for Unix-based systems.
+`Image Resizer` is a web application designed to resize images efficiently. Built on top of the ImageMagick library, it allows users to adjust image dimensions and size with ease. This tool is optimized for Unix-based systems.
 
 ---
 
